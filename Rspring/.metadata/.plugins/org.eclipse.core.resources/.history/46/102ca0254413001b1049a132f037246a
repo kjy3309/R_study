@@ -1,0 +1,7 @@
+package com.spring.service;
+
+import org.apache.hadoop.mapreduce.Mapper;
+
+public class MapperClass extends Mapper<KEYIN, VALUEIN, KEYOUT, VALUEOUT> {
+
+}

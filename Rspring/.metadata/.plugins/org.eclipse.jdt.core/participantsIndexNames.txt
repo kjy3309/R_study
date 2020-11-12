@@ -1,0 +1,17 @@
+INDEX VERSION 1.131
+C:\R\Rspring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3341435828.index
+\pratice\src\main\java
+C:\R\Rspring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1905074352.index
+\01_Rconnect\src\main\java
+C:\R\Rspring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2988685595.index
+\03_Tesrt\src\main\java
+C:\R\Rspring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1516351570.index
+\10_RealTime\src\main\java
+C:\R\Rspring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3994760850.index
+\02_HDFS\src\main\java
+C:\R\Rspring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3964364873.index
+\04_TEST\src\main\java
+C:\R\Rspring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3844246454.index
+\03_Test\src\main\java
+C:\R\Rspring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1823557430.index
+\test\src\main\java

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=02_HDFS/C:\/Users\/gd\/.m2\/repository\/org\/apache\/hadoop\/hadoop-common\/3.1.3\/hadoop-common-3.1.3.jar&lt;org.apache.hadoop.conf(Configured.class[Configured" modifiers="33" timestamp="1602651193686"/>
+<typeInfo handle="=02_HDFS/C:\/Users\/gd\/.m2\/repository\/org\/apache\/hadoop\/hadoop-mapreduce-client-core\/3.1.3\/hadoop-mapreduce-client-core-3.1.3.jar&lt;org.apache.hadoop.mapreduce(Mapper.class[Mapper" modifiers="33" timestamp="1602651316850"/>
+<typeInfo handle="=02_HDFS/C:\/Users\/gd\/.m2\/repository\/org\/apache\/hadoop\/hadoop-mapreduce-client-core\/3.1.3\/hadoop-mapreduce-client-core-3.1.3.jar&lt;org.apache.hadoop.mapreduce(Reducer.class[Reducer" modifiers="33" timestamp="1602651316850"/>
+</typeInfoHistroy>

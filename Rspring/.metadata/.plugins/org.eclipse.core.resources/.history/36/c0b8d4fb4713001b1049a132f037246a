@@ -1,0 +1,7 @@
+package com.spring.service;
+
+import org.apache.hadoop.mapreduce.Reducer;
+
+public class ReducerClass extends Reducer {
+
+}

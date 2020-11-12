@@ -1,0 +1,43 @@
+<div id="inputBox">
+<form action="mkfile" method="post">
+	<input id="filePath" type="hidden" name="path" value=""/>
+	<table>
+		<tr>
+			<th>파일명</th>
+			<td><input name="fileName" type="text"/></td>
+		</tr>
+		<tr>
+			<th>내용</th>
+			<td><textarea name="content"></textarea></td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center">
+				<button>저장</button>
+				<input onclick="$('#inputBox').remove()" type="button" value="취소"/>
+			</td>
+		</tr>
+	</table>
+</form>
+</div>
+
+<div id="uploadBox">
+<form id="uploadForm" action="copyFromLocal" method="post">
+	<input id="dstPath" type="hidden" name="dstPath" value=""/>		
+	<table>
+		<tr>
+			<th>파일</th>
+			<td>
+				<input id="srcPath" type="text" name="srcPath" value=""/><br/>
+				* 업로드할 파일명을 포함한 경로를 붙여넣으세요.
+			</td>
+		</tr>
+
+		<tr>
+			<td colspan="2" align="center">
+				<input type="button" onclick="fileUpload()" value="저장"/>
+				<input onclick="$('#uploadBox').remove()" type="button" value="취소"/>
+			</td>
+		</tr>
+	</table>
+</form>
+</div>

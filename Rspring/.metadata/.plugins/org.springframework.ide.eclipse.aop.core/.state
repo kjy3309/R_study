@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="10_RealTime"/>
+<aop-project name="test"/>
+<aop-project name="pratice"/>
+<aop-project name="03_Tesrt"/>
+<aop-project name="02_HDFS"/>
+</aop-reference-model>
